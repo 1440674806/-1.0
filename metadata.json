@@ -1,0 +1,6 @@
+{
+  "name": "Claudio FM",
+  "description": "An AI-powered voice diary and broadcast application inspired by minimalist aesthetics. Features voice-to-diary generation, personalized AI DJ narration, and bento-box dashboard.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["AI Chat", "Voice Interaction"]
+}
